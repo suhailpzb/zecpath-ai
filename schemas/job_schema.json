@@ -1,0 +1,17 @@
+{
+  "job_id": "string",
+  "job_title": "string",
+  "company_name": "string",
+  "location": "string",
+  "required_skills": [
+    {
+      "skill_name": "string",
+      "minimum_years_required": "number",
+      "priority": "High | Medium | Low"
+    }
+  ],
+  "required_experience_years": "number",
+  "education_required": "string",
+  "certifications_required": ["string"],
+  "employment_type": "Full-time | Part-time | Contract"
+}

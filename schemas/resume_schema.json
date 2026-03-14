@@ -1,0 +1,32 @@
+{
+  "candidate_id": "string",
+  "personal_info": {
+    "full_name": "string",
+    "email": "string",
+    "phone": "string",
+    "location": "string"
+  },
+  "skills": [
+    {
+      "skill_name": "string",
+      "years_of_experience": "number",
+      "proficiency_level": "Beginner | Intermediate | Expert"
+    }
+  ],
+  "experience": [
+    {
+      "designation": "string",
+      "company_name": "string",
+      "duration_months": "number"
+    }
+  ],
+  "education": [
+    {
+      "degree": "string",
+      "institution": "string",
+      "graduation_year": "number"
+    }
+  ],
+  "certifications": ["string"],
+  "total_experience_years": "number"
+}

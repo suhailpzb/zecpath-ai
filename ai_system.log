@@ -1,0 +1,26 @@
+2026-03-10 13:45:11,148 - INFO - Starting resume parsing
+2026-03-10 13:45:11,509 - INFO - Resume text extracted
+2026-03-10 13:45:11,510 - INFO - Resume text cleaned
+2026-03-10 13:45:11,510 - INFO - Candidate score calculated: 82
+2026-03-10 13:48:22,347 - INFO - Starting Zecpath AI pipeline
+2026-03-10 13:48:22,708 - INFO - Resume text extracted
+2026-03-10 13:48:22,711 - INFO - Resume text cleaned
+2026-03-10 13:48:22,712 - INFO - Candidate ATS Score: 82
+2026-03-10 13:48:22,713 - INFO - Pipeline finished successfully
+2026-03-10 14:12:31,975 - INFO - Starting Zecpath AI pipeline
+2026-03-10 14:12:32,679 - INFO - Resume text extracted
+2026-03-10 14:12:32,680 - INFO - Resume text cleaned
+2026-03-10 14:12:32,680 - INFO - Candidate Score: 30
+2026-03-10 14:13:08,958 - INFO - Starting Zecpath AI pipeline
+2026-03-10 14:13:09,660 - INFO - Resume text extracted
+2026-03-10 14:13:09,661 - INFO - Resume text cleaned
+2026-03-10 14:13:09,661 - INFO - Candidate Score: 30
+2026-03-10 14:14:47,890 - INFO - Starting Zecpath AI pipeline
+2026-03-10 14:14:48,598 - INFO - Resume text extracted
+2026-03-10 14:14:48,598 - INFO - Resume text cleaned
+2026-03-10 14:14:48,599 - INFO - Candidate Score: 30
+2026-03-10 14:17:00,076 - INFO - Starting Zecpath AI pipeline
+2026-03-10 14:17:00,779 - INFO - Skills: ['python', 'sql', 'machine learning', 'data analysis']
+2026-03-10 14:17:00,779 - INFO - Experience: 0
+2026-03-10 14:17:00,779 - INFO - Education: bachelor
+2026-03-10 14:17:00,779 - INFO - Candidate Score: 40

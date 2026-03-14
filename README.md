@@ -108,7 +108,4 @@ Resume Upload → Parsing → ATS Scoring → Candidate Ranking
 ```
 
 ---
-
-## 👨‍💻 Author
-
 Developed as part of **Zecpath AI System Architecture — Day 3 Tasks**.
