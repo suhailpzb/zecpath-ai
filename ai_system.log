@@ -24,3 +24,32 @@
 2026-03-10 14:17:00,779 - INFO - Experience: 0
 2026-03-10 14:17:00,779 - INFO - Education: bachelor
 2026-03-10 14:17:00,779 - INFO - Candidate Score: 40
+2026-03-15 07:30:18,565 - INFO - Starting Zecpath AI pipeline
+2026-03-15 07:30:19,298 - INFO - Skills: ['python', 'sql', 'machine learning', 'data analysis']
+2026-03-15 07:30:19,299 - INFO - Experience: 0
+2026-03-15 07:30:19,299 - INFO - Education: bachelor
+2026-03-15 07:30:19,299 - INFO - Candidate Score: 40
+2026-03-15 16:14:51,041 - INFO - Starting Zecpath AI pipeline
+2026-03-15 16:14:51,834 - INFO - Skills: ['python', 'sql', 'machine learning', 'data analysis']
+2026-03-15 16:14:51,834 - INFO - Experience: 0
+2026-03-15 16:14:51,834 - INFO - Education: bachelor
+2026-03-15 16:14:51,834 - INFO - Candidate Score: 40
+2026-03-17 12:40:54,929 - INFO - Starting Zecpath AI pipeline
+2026-03-17 12:40:55,608 - INFO - Skills: ['python', 'sql', 'machine learning', 'data analysis']
+2026-03-17 12:40:55,609 - INFO - Experience: 0
+2026-03-17 12:40:55,609 - INFO - Education: bachelor
+2026-03-17 12:40:55,609 - INFO - Candidate Score: 40
+2026-03-18 15:02:54,881 - INFO - ==================================================
+2026-03-18 15:02:54,882 - INFO - ZecPath AI Pipeline Started
+2026-03-18 15:02:54,885 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-18 15:02:55,604 - ERROR - Failed to process data/sample_resumes/resume1.pdf: calculate_score() got an unexpected keyword argument 'education'
+2026-03-18 15:02:55,969 - ERROR - Failed to process data/sample_resumes/resume2.pdf: calculate_score() got an unexpected keyword argument 'education'
+2026-03-18 15:02:56,451 - ERROR - Failed to process data/sample_resumes/resume3.pdf: calculate_score() got an unexpected keyword argument 'education'
+2026-03-18 15:02:56,452 - INFO - Results saved to data/output/screening_results.json
+2026-03-18 15:06:56,428 - INFO - ==================================================
+2026-03-18 15:06:56,428 - INFO - ZecPath AI Pipeline Started
+2026-03-18 15:06:56,430 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-18 15:06:57,176 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-18 15:06:57,592 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-18 15:06:58,057 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-18 15:06:58,058 - INFO - Results saved to data/output/screening_results.json

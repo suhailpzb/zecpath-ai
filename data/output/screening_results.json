@@ -1,0 +1,53 @@
+{
+  "jd_role": "portfolio manager",
+  "candidates": [
+    {
+      "resume_file": "resume1.pdf",
+      "matched_skills": [],
+      "missing_skills": [
+        "financial analysis",
+        "portfolio construction",
+        "asset allocation",
+        "risk management",
+        "investment analysis",
+        "client communication",
+        "communication"
+      ],
+      "experience": 0,
+      "education": "bachelor",
+      "score": 7
+    },
+    {
+      "resume_file": "resume2.pdf",
+      "matched_skills": [],
+      "missing_skills": [
+        "financial analysis",
+        "portfolio construction",
+        "asset allocation",
+        "risk management",
+        "investment analysis",
+        "client communication",
+        "communication"
+      ],
+      "experience": 0,
+      "education": "bachelor",
+      "score": 7
+    },
+    {
+      "resume_file": "resume3.pdf",
+      "matched_skills": [],
+      "missing_skills": [
+        "financial analysis",
+        "portfolio construction",
+        "asset allocation",
+        "risk management",
+        "investment analysis",
+        "client communication",
+        "communication"
+      ],
+      "experience": 0,
+      "education": "not found",
+      "score": 0
+    }
+  ]
+}

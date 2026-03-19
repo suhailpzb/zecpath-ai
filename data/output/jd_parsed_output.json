@@ -1,0 +1,44 @@
+{
+  "jd_id": "JD-PORTFOLIO-MANAGER",
+  "role_name": "portfolio manager",
+  "experience_requirements": {
+    "min_years": 3,
+    "max_years": 7,
+    "raw": "3-7 years"
+  },
+  "education_requirements": {
+    "degree_level": [
+      "master",
+      "bachelor"
+    ],
+    "fields": [
+      "finance",
+      "economics"
+    ],
+    "certifications": []
+  },
+  "required_skills": [
+    "financial analysis",
+    "portfolio construction",
+    "asset allocation",
+    "risk management",
+    "investment analysis",
+    "client communication",
+    "communication"
+  ],
+  "skill_synonyms": {},
+  "normalized_skill_tags": [
+    "financial-analysis",
+    "portfolio-construction",
+    "asset-allocation",
+    "risk-management",
+    "investment-analysis",
+    "client-communication",
+    "communication"
+  ],
+  "ai_profile": {
+    "seniority_level": "mid",
+    "total_skills_found": 7
+  },
+  "parsed_at": "2026-03-18T09:36:56.429774Z"
+}

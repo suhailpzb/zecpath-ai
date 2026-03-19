@@ -1,0 +1,4 @@
+def save_cleaned_text(text, filename):
+
+    with open(f"output/cleaned_resumes/{filename}.txt", "w") as f:
+        f.write(text)
