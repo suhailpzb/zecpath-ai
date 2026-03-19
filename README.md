@@ -78,7 +78,7 @@ zecpath_ai/
 | Day 4 | Data Understanding & Structuring | `resume_schema.json`, `jd_schema.json`, AI data entity design |
 | Day 5 | Resume Text Extraction Engine | `resume_parser.py` — PDF/DOCX reader, cleaner, section extractor |
 | Day 6 | Job Description Parsing System | `jd_parser.py` — 18 roles, 70+ skills, synonyms, structured JD output |
-
+| Day 7 | AI Data Pipeline & Storage Design — pipeline diagram, storage structure, metadata standards | Done |
 ---
 
 ## How the Pipeline Works
