@@ -53,3 +53,38 @@
 2026-03-18 15:06:57,592 - INFO - resume2.pdf | score=7 | matched=[]
 2026-03-18 15:06:58,057 - INFO - resume3.pdf | score=0 | matched=[]
 2026-03-18 15:06:58,058 - INFO - Results saved to data/output/screening_results.json
+2026-03-23 11:15:29,278 - INFO - ==================================================
+2026-03-23 11:15:29,278 - INFO - ZecPath AI Pipeline Started
+2026-03-23 11:15:29,281 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-23 11:15:30,430 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-23 11:15:30,991 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-23 11:15:31,496 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-23 11:15:31,497 - INFO - Results saved to data/output/screening_results.json
+2026-03-23 11:21:13,431 - INFO - ==================================================
+2026-03-23 11:21:13,431 - INFO - ZecPath AI Pipeline Started
+2026-03-23 11:21:13,434 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-23 11:21:14,141 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-23 11:21:14,487 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-23 11:21:14,948 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-23 11:21:14,949 - INFO - Results saved to data/output/screening_results.json
+2026-03-26 23:35:33,646 - INFO - ==================================================
+2026-03-26 23:35:33,647 - INFO - ZecPath AI Pipeline Started
+2026-03-26 23:35:33,650 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-26 23:35:34,357 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-26 23:35:34,710 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-26 23:35:35,168 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-26 23:35:35,169 - INFO - Results saved to data/output/screening_results.json
+2026-03-26 23:35:47,906 - INFO - ==================================================
+2026-03-26 23:35:47,906 - INFO - ZecPath AI Pipeline Started
+2026-03-26 23:35:47,908 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-26 23:35:48,662 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-26 23:35:49,024 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-26 23:35:49,485 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-26 23:35:49,486 - INFO - Results saved to data/output/screening_results.json
+2026-03-27 20:45:04,003 - INFO - ==================================================
+2026-03-27 20:45:04,003 - INFO - ZecPath AI Pipeline Started
+2026-03-27 20:45:04,006 - INFO - JD Parsed — Role: portfolio manager | Skills: 7
+2026-03-27 20:45:04,735 - INFO - resume1.pdf | score=7 | matched=[]
+2026-03-27 20:45:05,125 - INFO - resume2.pdf | score=7 | matched=[]
+2026-03-27 20:45:05,609 - INFO - resume3.pdf | score=0 | matched=[]
+2026-03-27 20:45:05,610 - INFO - Results saved to data/output/screening_results.json

@@ -129,12 +129,18 @@ def main():
     # ── 5. RANK CANDIDATES ────────────────────────────────────────
     if results:
         ranked = sorted(results, key=lambda x: x["score"], reverse=True)
-        print("\n" + "=" * 55)
-        print("  Ranking — best match first")
-        print("=" * 55)
-        for rank, r in enumerate(ranked, 1):
-            bar   = "█" * (r["score"] // 5) + "░" * (20 - r["score"] // 5)
-        print(f"  #{rank}  {r['resume_file']:<20}  {bar}  {r['score']}/100")
+
+    print("\n" + "=" * 55)
+    print("  Ranking — best match first")
+    print("=" * 55)
+
+    for rank, r in enumerate(ranked, 1):
+        bar   = "█" * (r["score"] // 5)
+        empty = "░" * (20 - r["score"] // 5)
+        print(f"  #{rank}  {r['resume_file']:<20} {bar}{empty}  {r['score']}/100")
+
+    print(f"\n  Top Candidate : {ranked[0]['resume_file']}")
+    print(f"  Score         : {ranked[0]['score']} / 100")
 
     # ── 6. SAVE RESULTS TO JSON ───────────────────────────────────
     output_path = "data/output/screening_results.json"

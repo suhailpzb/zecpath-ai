@@ -6,6 +6,7 @@ import re
 import os
 import json
 from datetime import datetime
+from parsers.section_parser import classify_resume_sections
 
 try:
     import pdfplumber
@@ -188,7 +189,7 @@ def build_candidate_profile(file_path, candidate_id=None):
     """
     raw_text     = extract_resume_text(file_path)
     cleaned_text = clean_resume_text(raw_text)
-    sections     = extract_sections(raw_text)
+    sections     = classify_resume_sections(raw_text)
 
     # Basic experience years detection
     exp_match = re.search(r'(\d+)\s+year', cleaned_text)
